@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"ejercicio2","l":"Departamento"},{"p":"ejercicio1","l":"Empleado"},{"p":"excepciones","l":"Excepciones"},{"p":"ejercicio2","l":"funcionalidades"},{"p":"ejercicio1","l":"Funcionalidades"},{"p":"ejercicio1","l":"main"},{"p":"ejercicio2","l":"Main"}]
